@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<prefs>
+	<property key="ARSGuid">6e6d4ed8-8938-4eec-a103-9d7c47eb4854</property>
+	<property key="CCDQuickActions_STATUS_LIGHT">false</property>
+	<property key="CCDQuickActionsTab">true</property>
+	<property key="ccd.container.firstlaunch">true</property>
+	<property key="appsPanelVisibilityAnalytics">enabled</property>
+	<property key="CCDHome_STATUS_LIGHT">true</property>
+	<property key="showTour.DRWV">1</property>
+	<property key="showTour">1</property>
+	<property key="showTour.ILST">1</property>
+	<property key="CCD_MARKETPLACE_NEW_STATUS_LIGHT">OFF</property>
+</prefs>
